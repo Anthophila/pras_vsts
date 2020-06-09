@@ -11,3 +11,4 @@
     assert_equal true, GitHub::TokenScanning::TokenScanningPostProcessingHelper.valid_vsts_pat_crc?("nj3ithqqxdghjtxuo6a27lebc4ko5jyqsthyqshtnnlpvowh2oaq")
     assert_equal true, GitHub::TokenScanning::TokenScanningPostProcessingHelper.valid_vsts_pat_crc?("36tbhyubwbvmi3xzek5n7gz2mxxx3ywxoujzjoxtb3ptgdyfauia")
     assert_equal true, GitHub::TokenScanning::TokenScanningPostProcessingHelper.valid_vsts_pat_crc?("r5cd6wmuyil22fwl7yy7tukhtkr5dh3ex6eaw6qmtbfdikdvjlvq")
+  
